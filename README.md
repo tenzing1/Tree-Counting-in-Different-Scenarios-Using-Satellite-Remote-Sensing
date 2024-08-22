@@ -4,5 +4,5 @@ This project explores the use of advanced image processing techniques in MATLAB 
 
 ![Original Image](Original_img%20(2).png)
 ![Segmented Image](segmented_img.jpg)
-
+![Overlay Final Image](overlay_final.jpg)
 
